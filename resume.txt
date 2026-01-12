@@ -1,0 +1,3 @@
+I am a Computer Science student.
+I have experience in Python, SQL, Git, and basic Machine Learning.
+Worked on small Flask projects.

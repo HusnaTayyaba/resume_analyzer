@@ -1,0 +1,2 @@
+We are looking for a Python developer with experience in Django, SQL, Git, and AWS.
+Knowledge of Machine Learning is a plus.
